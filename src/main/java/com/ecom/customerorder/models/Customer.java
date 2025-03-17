@@ -3,7 +3,7 @@ package com.ecom.customerorder.models;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonManagedReference;
 import jakarta.persistence.*;
-import jakarta.persistence.criteria.Order;
+
 import lombok.*;
 
 import java.util.List;
